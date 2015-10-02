@@ -6,3 +6,5 @@ p. 111: "But invisibility was it's own kind of reward; it meant you had to answe
 p. 112: "The thing that both Herc and Jones did was release the music on the record from linear and temporal contraints."
 
 p. 124 baby boom 
+
+p. 130 testing diff
